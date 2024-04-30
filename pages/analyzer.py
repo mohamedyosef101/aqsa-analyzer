@@ -8,9 +8,7 @@ sns.set()
 
 st.markdown('''
 # **The Analyzer**
-            
-### هنا تقدر تحمل ملفاتك الخاصة بالأمور المالية والمبيعات
-
+Here you can analyze your startup data (sales, finance, etc.)
 ''')
 
 # Upload CSV data
